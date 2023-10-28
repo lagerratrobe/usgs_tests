@@ -53,10 +53,10 @@ print(results)
 
 Step 4: Parallelize and go to the races
 
-makeCluster(20) = 15.89927 secs for all years, one product
-makeCluster(16) = 17.7 secs 
-makeCluster(12) = 18.04021 secs
-makeCluster(8) = 22.11904 secs
-makeCluster(4) = 35.27146 secs
-makeCluster(1) = 2.020714 mins
+- makeCluster(20) = 15.89927 secs for all years, one product
+- makeCluster(16) = 17.7 secs 
+- makeCluster(12) = 18.04021 secs
+- makeCluster(8) = 22.11904 secs
+- makeCluster(4) = 35.27146 secs
+- makeCluster(1) = 2.020714 mins
 
